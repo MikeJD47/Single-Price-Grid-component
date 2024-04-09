@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://mikejd47.github.io/Single-Price-Grid-component/)
+- Solution URL: [Solution](https://mikejd47.github.io/Single-Price-Grid-component/)
 
 ## My process
 
